@@ -1,0 +1,2 @@
+/Users/foisictpro/project/flutter_inner_printer/example/android/app/.cxx/Debug/s4g522o6/x86/CMakeFiles/edit_cache.dir
+/Users/foisictpro/project/flutter_inner_printer/example/android/app/.cxx/Debug/s4g522o6/x86/CMakeFiles/rebuild_cache.dir
